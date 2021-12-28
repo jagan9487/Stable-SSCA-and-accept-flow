@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="168.997">
+<testcase classname="SSCA" name="Submit the application(TC001)" time="168.867">
+<system-out><![CDATA[Given Fill Landing page information.........................................passed
+And Fill application page information.......................................passed
+And Fill personal page information..........................................passed
+And Fill financial page information.........................................passed
+And Fill disclosure page information........................................passed
+Then Accept application in CCI client.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>

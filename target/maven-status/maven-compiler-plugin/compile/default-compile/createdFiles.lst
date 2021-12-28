@@ -1,0 +1,15 @@
+com\everi\pages\Landing_page.class
+com\everi\pages\Acceptapplication_page.class
+com\everi\helper\Webutility.class
+com\everi\stepdefinitions\Hook.class
+com\everi\stepdefinitions\Disclosure_steps.class
+com\everi\pages\Application_Information.class
+com\everi\stepdefinitions\Landingpage_steps.class
+com\everi\pages\Disclosure.class
+com\everi\stepdefinitions\Personal_info_steps.class
+com\everi\stepdefinitions\Acceptapplicationsteps.class
+com\everi\stepdefinitions\Applicationsteps.class
+com\everi\pages\Personal_Information.class
+com\everi\stepdefinitions\Financial_info_steps.class
+com\everi\Test\ProjectGlobalVariables.class
+com\everi\pages\Financial_Information.class
