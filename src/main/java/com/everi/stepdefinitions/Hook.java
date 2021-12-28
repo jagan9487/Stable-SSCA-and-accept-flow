@@ -37,7 +37,8 @@ public class Hook  {
 		FileInputStream fileInputStream = null;
 		
 		try {
-			String dataExcel = ProjectGlobalVariables.sscaProperties.getProperty("--ExcelName").replaceAll("[\"]", "");
+			//String dataExcel =  ProjectGlobalVariables.sscaProperties.getProperty("--ExcelName").replaceAll("[\"]", "");
+			String dataExcel =  ProjectGlobalVariables.sscaProperties.getProperty("--ExcelName").replaceAll("[\"]", "");
 			System.out.println(dataExcel);
 			Util util = new Util();
 			String scenario_Name = scenario.getName();
